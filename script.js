@@ -15,7 +15,7 @@ const cap1 = { ...person }; // creating a copy of the object person
 players.push("Tom");
 
 // Modifying person object
-person.name = "Jane";
+person.name = "John Doe";
 person.age = 85;
 
 window.players = players;
